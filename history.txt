@@ -1,0 +1,327 @@
+    1  git --version
+    2  ls
+    3  clear
+    4  cd Desktop/
+    5  cls
+    6  clear
+    7  cd destop
+    8  cd desktop
+    9  cd desktop/
+   10  clear
+   11  desktop
+   12  cd desktop/
+   13  cd Desktop/
+   14  clear
+   15  ls
+   16  clear
+   17  mkdir gitrepo
+   18  cd gitrepo/
+   19  clear
+   20  touch file.txt
+   21  echo "Hello Wordl" >> file.txt
+   22  cat file.txt
+   23  clear
+   24  npm -v
+   25  node -v
+   26  git --v
+   27  git -v
+   28  cls
+   29  git --version
+   30  cd wds-test
+   31  npm run devStart
+   32  npm run devStart
+   33  npm run devStart
+   34  cd
+   35  cd Destop
+   36  cd Desktop
+   37  cd JS Test
+   38  cd JS\Test
+   39  cd JS/Test
+   40  cd JS/Test
+   41  cd JS\TestWds-Test
+   42  cd JS\Test
+   43  cd JS\ Test
+   44  cd Wds-Test
+   45  npm run devStart
+   46  npm uninstall multer
+   47  npm run devStart
+   48  npm run devStart
+   49  <html lang="en">
+   50  <head>
+   51    <meta charset="UTF-8">
+   52    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   53    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   54    <link href="https://unpkg.com/filepond/dist/filepond.css" rel="stylesheet">
+   55    <link href="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css" rel="stylesheet">
+   56    <script defer src="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.js"></script>
+   57    <script defer src="https://unpkg.com/filepond-plugin-file-encode/dist/filepond-plugin-file-encode.js"></script>
+   58    <script defer src="https://unpkg.com/filepond-plugin-image-resize/dist/filepond-plugin-image-resize.js"></script>
+   59    <script defer src="https://unpkg.com/filepond/dist/filepond.js"></script>
+   60    <script defer src="/javascripts/fileUpload.js"></script>
+   61    <title>Mybrary</title>
+   62  </head>
+   63  <body>
+   64    <%- include('../partials/header.ejs') %>
+   65    <%- include('../partials/errorMessage.ejs') %>
+   66    <%- body %>
+   67  </body>
+   68  <html lang="en">
+   69  <head>
+   70    <meta charset="UTF-8">
+   71    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   72    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   73    <link href="https://unpkg.com/filepond/dist/filepond.css" rel="stylesheet">
+   74    <link href="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.css" rel="stylesheet">
+   75    <script defer src="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.js"></script>
+   76    <script defer src="https://unpkg.com/filepond-plugin-file-encode/dist/filepond-plugin-file-encode.js"></script>
+   77    <script defer src="https://unpkg.com/filepond-plugin-image-resize/dist/filepond-plugin-image-resize.js"></script>
+   78    <script defer src="https://unpkg.com/filepond/dist/filepond.js"></script>
+   79    <script defer src="/javascripts/fileUpload.js"></script>
+   80    <title>Mybrary</title>
+   81  </head>
+   82  <body>
+   83    <%- include('../partials/header.ejs') %>
+   84    <%- include('../partials/errorMessage.ejs') %>
+   85    <%- body %>
+   86  </body>
+   87  npm run devStart
+   88  cd
+   89  cd Desktop
+   90  cd JS\ Test
+   91  cd my-app
+   92  npm start
+   93  npm start
+   94  ls
+   95  exit
+   96  mongo
+   97  cd GitTest
+   98  npm run DevStart
+   99  npm run devStart
+  100  cd c:\program/ filescd c:\program/ files
+  101  mongo
+  102  npm config set ignore-scripts true
+  103  node -v
+  104  node --v
+  105  ls
+  106  cd Program Files
+  107  cd Program\Files
+  108  cd Program\\Files
+  109  cd Program\ Files/
+  110  cd MongoDb/Server/4.2/bin
+  111  ./mongod --repair
+  112  mongod
+  113  mongod --repair
+  114  ./mongod --repair
+  115  exit
+  116  mongod --port 27017 --dbpath /var/lib/mongodb
+  117  mongo --port 27017
+  118  use admin
+  119  db.createUser(
+  120    {     user: "myUserAdmin",;     pwd: passwordPrompt(), // or cleartext password
+  121      roles: [ { role: "userAdminAnyDatabase", db: "admin" }, "readWriteAnyDatabase" ]
+  122    }
+  123  )use admin
+  124  use admin
+  125  db.adminCommand( { shutdown: 1 } )
+  126  exit
+  127  mongo
+  128  mongo
+  129  exit
+  130  mongod
+  131  cls
+  132  clear
+  133  mongod --port 27017 --dbpath /data/db1
+  134  exit
+  135  traceroute google.com
+  136  exit
+  137  ssh-keygen -t rsa -b 4096 -c "khuhgessean@yahoo.com"
+  138  clear
+  139  ssh-keygen -t rsa -b 4096 -C "khughessean@yahoo.com"
+  140  eval $(ssh-agent -s)
+  141  ssh-add ~/.ssh/id_rsa
+  142  clip < ~/.ssh/id_rsa.pub
+  143  ssh -T git@github.com
+  144  git clone git@github.com:HughesSeanKyle/chunkyMonkeySolThree.git
+  145  1s
+  146   chunkyMonkeySolThree/
+  147  exit
+  148  cd exercises/
+  149  cd anagrams/
+  150  jest anagrams/test.js --watch
+  151  cd exercises/
+  152  cd capitalize/
+  153  jest capatalize/test.js --watch
+  154  jest capitalize/test.js --watch
+  155  python -v
+  156  ls
+  157  cd Desktop/
+  158  ls 
+  159  cd Umuzi/
+  160  ls 
+  161  exit 
+  162  ls 
+  163  mkdir test-git
+  164  cd test-git/
+  165  git init 
+  166  cd ..
+  167  s 
+  168  ls 
+  169  mkdir 19.oop-person-assignment
+  170  cd 19.oop-person-assignment/
+  171  ls 
+  172  npm init -y
+  173  ls 
+  174  mkdir src 
+  175  cd src/
+  176  touch person.js
+  177  nano person.js 
+  178  cat person.js 
+  179  cd ..
+  180  ls 
+  181  npm run dev 
+  182  npm run dev 
+  183  cd ..
+  184  ls 
+  185  ls /
+  186  ls 
+  187  mkdir test-task-10
+  188  cd test-task-10/
+  189  ls 
+  190  git clone https://github.com/Umuzi-org/Kyle-Hughes-754-contentitem-javascript.git
+  191  cd ..
+  192  ls 
+  193  cd 19.oop-person-assignment/
+  194  ls 
+  195  git init 
+  196  git checkout -b HughesSeanKyle-patch-1 main
+  197  git status 
+  198  git add .
+  199  git commit -m"initial commit"
+  200  git log 
+  201  git checkout -b HughesSeanKyle-patch-1 main
+  202  ls -a 
+  203  cd ..
+  204  ls 
+  205  mkdir 20.oop-person-git-github
+  206  cd 20.oop-person-git-github/
+  207  git clone https://github.com/Umuzi-org/Kyle-Hughes-223-person-javascript.git
+  208  git branch 
+  209  git init 
+  210  git branch 
+  211  git checkout 
+  212  git add .
+  213  git reset 
+  214  git status 
+  215  cd ..
+  216  cd 19.oop-person-assignment/
+  217  ls 
+  218  git status 
+  219  git remote add origin https://github.com/Umuzi-org/Kyle-Hughes-223-person-javascript.git
+  220  git push origin HughesSeanKyle-patch-1:HughesSeanKyle-patch-1
+  221  git pull 
+  222  git pull origin HughesSeanKyle-patch-1 
+  223  ls -a 
+  224  git status 
+  225  git add .
+  226  git commit -m"Add challenge required code"
+  227  git push origin HughesSeanKyle-patch-1:HughesSeanKyle-patch-1
+  228  git pull
+  229  git pull https://github.com/Umuzi-org/Kyle-Hughes-223-person-javascript.git HughesSeanKyle-patch-1
+  230  cd ..
+  231  cd 20.oop-person-git-github/
+  232  ls 
+  233  cd Kyle-Hughes-223-person-javascript/
+  234  ls 
+  235  cd ..
+  236  ls 
+  237  rm -rf Kyle-Hughes-223-person-javascript/
+  238  ls 
+  239  ls -a
+  240  git remote add origin https://github.com/Umuzi-org/Kyle-Hughes-223-person-javascript.git
+  241  git pull 
+  242  git-pull(1)
+  243  git pull https://github.com/Umuzi-org/Kyle-Hughes-223-person-javascript.git HughesSeanKyle-patch-1
+  244  git checkout -b HughesSeanKyle-patch-1 main
+  245  ls -a
+  246  git status 
+  247  git checkout main
+  248  ls -a 
+  249  git pull https://github.com/Umuzi-org/Kyle-Hughes-223-person-javascript.git main
+  250  git checkout HughesSeanKyle-patch-1 
+  251  ls 
+  252  git status 
+  253  origin
+  254  git origin
+  255  git remote -v 
+  256  git add .
+  257  git commit -m"push code to remote"
+  258  git push origin HughesSeanKyle-patch-1 
+  259  cd ..
+  260  ls 
+  261  ls 
+  262  mkdir 21.katas-level-one
+  263  touch task1.js
+  264  touch task2.js
+  265  touch task3.js
+  266  touch task4.js
+  267  touch task5.js
+  268  touch task6.js
+  269  touch task7.js
+  270  ls 
+  271  mkdir 22.git-basic-exercises
+  272  cd 22.git-basic-exercises/
+  273  git init 
+  274  ls -a 
+  275  touch README.md
+  276  git status 
+  277  git log 
+  278  git add .
+  279  git status 
+  280  git reset 
+  281  git status 
+  282  git add .
+  283  git commit -m"initial commit"
+  284  git log 
+  285  ls -a 
+  286  nano README.md 
+  287  git status 
+  288  cat README.md 
+  289  git add .
+  290  git status 
+  291  git commit -m"second commit"
+  292  git status 
+  293  ls -a 
+  294  nano README.md 
+  295  cat README.md 
+  296  nano README.md 
+  297  cat README.md 
+  298  git add .
+  299  git commit -m"third commit"
+  300  git status
+  301  git log 
+  302  git checkout 56ae36ce42cc6bb4e671dbd352b077feae02b553
+  303  cat README.md 
+  304  git checkout main 
+  305  cat README.md 
+  306  git checkout -b milkshake-flavours main 
+  307  ls -a 
+  308  git branch
+  309  git checkout main
+  310  git branch 
+  311  git checkout milkshake-flavours 
+  312  nano milkshakes.md
+  313  cat milkshakes.md 
+  314  git status 
+  315  git add .
+  316  git commit -m"added initial flavours"
+  317  git log 
+  318  git checkout main 
+  319  git log 
+  320  git checkout milkshake-flavours 
+  321  ls 
+  322  git log 
+  323  git checkout main
+  324  git checkout -b history main 
+  325  git log 
+  326  git branch 
+  327  history > history.txt
